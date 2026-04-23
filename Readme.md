@@ -34,6 +34,7 @@
 |  05  | 4.1  | Adversarial Search and Games                                        | Bin Yang |                              \                               | [课件05](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture05/lec05.pdf) |
 |  06  | 4.8  | Constraint Satisfaction Problems                                    | Bin Yang |                              \                               | [课件06](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture06/lec06.pdf) |
 |  07  | 4.15 | Logical Agents                                                      | Bin Yang |                              \                               | [课件07](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture07/lec07.pdf) |
+|  08  | 4.22 | Knowledge Representation                                            | Bin Yang |                              \                               | [课件08](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture08/lec08.pdf) |
 
 ### 3、课程考核
 实验课拟进行一次 presentation，该部分计入平时分，主题为 Project 1 的相关内容，目标是展示对于 Search 章节相关问题的理解。
