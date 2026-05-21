@@ -25,19 +25,20 @@
 ---
 
 
-| 周数📆 | 日期🕣 | 内容📒                                                        |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
-| :---: | :---: | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|  01   |  3.4  | Introduction and Intelligent Agents                          | Bin Yang | [Assignment1](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture01/lec01.pdf) |
-|  02   | 3.11  | Problem Solving: Search                                      | Bin Yang | [Project1](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Warm_Up.pdf) | [课件02](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture02/lec02.pdf) |
-|  03   | 3.18  | Problem Solving: Informed Search and Search in Complex Environments | Bin Yang | [Project1_Code](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_Code.pdf) / [Readme](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_readme.pdf) | [课件03](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture03/lec03.pdf) |
-|  04   | 3.25  | Search in Complex Environments                               | Bin Yang | [Project1_APP](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_APP.pdf) / [Readme](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_readme.pdf) | [课件04](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture04/lec04.pdf) |
-|  05   |  4.1  | Adversarial Search and Games                                 | Bin Yang |                              \                               | [课件05](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture05/lec05.pdf) |
-|  06   |  4.8  | Constraint Satisfaction Problems                             | Bin Yang |                              \                               | [课件06](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture06/lec06.pdf) |
-|  07   | 4.15  | Logical Agents                                               | Bin Yang |                              \                               | [课件07](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture07/lec07.pdf) |
-|  08   | 4.22  | Knowledge Representation                                     | Bin Yang |                              \                               | [课件08](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture08/lec08.pdf) |
-|  09   | 4.29  | Knowledge Representation & Automated Planning                | Yang Shu |                              \                               | [课件09](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture09/lec09.pdf) |
-|  10   |  5.6  | Quantifying Uncertainty                                      | Yang Shu | [Assignment2](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_2/Assignment2.pdf) | [课件 10](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture10/lec10.pdf) |
-|  11   | 5.13  | Quantifying Uncertainty and Probabilistic Reasoning          | Yang Shu | [Assignment3](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_3/Assignment3.pdf) | [课件 11](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture11/lec11.pdf) |
+| 周数📆 | 日期🕣 | 内容📒                                                                |  主讲💂‍♂️  |                          本周任务 📌                          |                                               课件📘                                               |
+|:----:|:----:|---------------------------------------------------------------------| :------: | :----------------------------------------------------------: |:------------------------------------------------------------------------------------------------:|
+|  01  | 3.4  | Introduction and Intelligent Agents                                 | Bin Yang | [Assignment1](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture01/lec01.pdf)  |
+|  02  | 3.11 | Problem Solving: Search                                             | Bin Yang | [Project1](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Warm_Up.pdf) | [课件02](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture02/lec02.pdf)  |
+|  03  | 3.18 | Problem Solving: Informed Search and Search in Complex Environments | Bin Yang | [Project1_Code](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_Code.pdf) / [Readme](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_readme.pdf) | [课件03](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture03/lec03.pdf)  |
+|  04  | 3.25 | Search in Complex Environments                                      | Bin Yang | [Project1_APP](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_APP.pdf) / [Readme](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Project_1/Project1_readme.pdf) | [课件04](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture04/lec04.pdf)  |
+|  05  | 4.1  | Adversarial Search and Games                                        | Bin Yang |                              \                               | [课件05](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture05/lec05.pdf)  |
+|  06  | 4.8  | Constraint Satisfaction Problems                                    | Bin Yang |                              \                               | [课件06](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture06/lec06.pdf)  |
+|  07  | 4.15 | Logical Agents                                                      | Bin Yang |                              \                               | [课件07](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture07/lec07.pdf)  |
+|  08  | 4.22 | Knowledge Representation                                            | Bin Yang |                              \                               | [课件08](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture08/lec08.pdf)  |
+|  09  | 4.29 | Knowledge Representation & Automated Planning                       | Yang Shu |                              \                               | [课件09](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture09/lec09.pdf)  |
+|  10  | 5.6  | Quantifying Uncertainty                                             | Yang Shu | [Assignment2](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_2/Assignment2.pdf) | [课件 10](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture10/lec10.pdf) |
+|  11  | 5.13 | Quantifying Uncertainty and Probabilistic Reasoning                 | Yang Shu | [Assignment3](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/Lab/Assignment_3/Assignment3.pdf) | [课件 11](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture11/lec11.pdf) |
+|  12  | 5.20 | Introduction of Machine Learning                                    | Yang Shu |   \     | [课件 12](https://github.com/ccloud0525/AI-fundamentals-2026-Spring/blob/main/lecture12/lec12.pdf) |
 
 ### 3、课程考核
 实验课拟进行一次 presentation，该部分计入平时分，主题为 Project 1 的相关内容，目标是展示对于 Search 章节相关问题的理解。
@@ -47,8 +48,16 @@
 4. 时间需严格控制在 10 分钟以内。
 5. 汇报顺序采用抽签决定。
 
+### 4、期末考核
+课程拟进行一次期末考核，考核内容会在 13 周周五发布，题材和时间序列预测相关，请同学提前阅读以下文献，了解相关知识：
 
-### 4、参考教材
+[1]  [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/pdf/2211.14730)
+[2]  [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/pdf/2205.13504)
+[3] [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/pdf/2210.02186)
+
+请阅读文献，阅读相应代码，代码可在 [TSLib](https://github.com/thuml/Time-Series-Library) 和 [TFB](https://github.com/decisionintelligence/TFB) 中找到。
+
+### 5、参考教材
 
 [1] Stuart J.Russell，Peter Norvig，《人工智能：一种现代的方法（第3版 影印版）》，北京：清华大学出版社，2011年。（主教材）
 
