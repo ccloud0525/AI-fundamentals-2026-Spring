@@ -49,13 +49,19 @@
 5. 汇报顺序采用抽签决定。
 
 ### 4、期末考核
-课程拟进行一次期末考核，考核内容会在 13 周周五发布，题材和时间序列预测相关，请同学提前阅读以下文献，了解相关知识：
+课程拟进行一次期末考核，考核内容会在 13 周周五发布，题材和时间序列预测相关，请同学提前阅读以下文献，了解相关前置知识：
 
 [1]  [A Time Series is Worth 64 Words: Long-term Forecasting with Transformers](https://arxiv.org/pdf/2211.14730)
+
 [2]  [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/pdf/2205.13504)
+
 [3] [TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis](https://arxiv.org/pdf/2210.02186)
 
 请阅读文献，阅读相应代码，代码可在 [TSLib](https://github.com/thuml/Time-Series-Library) 和 [TFB](https://github.com/decisionintelligence/TFB) 中找到。
+
+预告一下，后续具体考题，会在两个大方向中进行选择，分别是轻量化时间序列预测，和多模态时间序列预测。
+
+算力资源，请参考 Google Colab，针对大学生有免费额度，足以支撑上述任务。
 
 ### 5、参考教材
 
